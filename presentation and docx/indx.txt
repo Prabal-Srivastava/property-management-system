@@ -1,0 +1,107 @@
+TABLE OF CONTENTS
+1.   INTRODUCTION
+•	Background
+•	Objectives
+•	Purpose and Scope
+o	Purpose
+o	Scope
+2. TECHNOLOGIES AND ENVIRONMENT
+
+3. REQUIREMENTS AND ANALYSIS
+•	Problem Definition
+•	Data Flow Diagram
+•	Requirements Specification
+o	Software
+o	Hardware 
+•	Preliminary Product Description
+•	Conceptual Models
+•	Model Used
+o	Advantages
+o	Disadvantages
+4. References
+5. Code (Based on modules)
+6. Pictures of working Project.
+7. Testing
+8. Future Scope and Conclusion
+
+
+
+
+
+
+
+
+
+
+
+TABLE OF CONTENT
+
+•	INTRODUCTION………………………………………………………….……3  
+
+•	PURPOSE AND SCOPE.……………………………………………………….4
+
+•	OBJECTIVE………………………………………………………………….…5    
+
+•	REQUIREMENT SPECIFICATION ...………………………………………...6  – 8 
+
+•	FEASIBILITY STUDY……………………………………………….………...9  – 11 
+
+•	SYSTEM DESIGN………………………………….……………………..…...12 – 13
+
+•	ER – DIAGRAM.…………...…………………………………………...……..14
+
+•	FEATURES………………………………….………………………………....15
+
+•	TECHNOLOGY STACK………………………………………………………16 – 18
+
+•	DATA FLOW DIAGRAM……………………………………….………...…. 19 – 21
+
+•	CODING…………………. ……………………………………….………….. 22 – 45
+
+•	TESTING……………………………………………………………………….46 – 49
+
+•	MODULE DESCRIPTION…………………………………………………… 50 – 52
+
+•	SCREEN SHOTS………………………………………………………………53 – 58
+
+•	FUTURE SCOPE OF THE PROJECT……………………………...…………59
+•	CONCLUSION……………………………………………………...…………60
+
+•	REFERENCE……………………………………………………..…………....61
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
